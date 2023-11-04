@@ -1,0 +1,17 @@
+<Materials>
+    <Material>
+        <MaterialID>1</MaterialID>
+        <Name>Cement</Name>
+        <Quantity>500</Quantity>
+    </Material>
+    <Material>
+        <MaterialID>2</MaterialID>
+        <Name>Bricks</Name>
+        <Quantity>10000</Quantity>
+    </Material>
+    <Material>
+        <MaterialID>3</MaterialID>
+        <Name>Steel Bars</Name>
+        <Quantity>2000</Quantity>
+    </Material>
+</Materials>

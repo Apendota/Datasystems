@@ -1,0 +1,23 @@
+<Clients>
+    <Client>
+        <ClientID>1</ClientID>
+        <ClientName>ABC Construction Company</ClientName>
+        <ContactPerson>John Smith</ContactPerson>
+        <ContactNumber>123-456-7890</ContactNumber>
+        <Email>john@example.com</Email>
+    </Client>
+    <Client>
+        <ClientID>2</ClientID>
+        <ClientName>XYZ Corporation</ClientName>
+        <ContactPerson>Jane Doe</ContactPerson>
+        <ContactNumber>987-654-3210</ContactNumber>
+        <Email>jane@example.com</Email>
+    </Client>
+    <Client>
+        <ClientID>3</ClientID>
+        <ClientName>LMN Enterprises</ClientName>
+        <ContactPerson>Michael Johnson</ContactPerson>
+        <ContactNumber>555-555-5555</ContactNumber>
+        <Email>michael@example.com</Email>
+    </Client>
+</Clients>

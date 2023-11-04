@@ -1,0 +1,23 @@
+<Employees>
+    <Employee>
+        <EmployeeID>1</EmployeeID>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Position>Manager</Position>
+        <Salary>60000</Salary>
+    </Employee>
+    <Employee>
+        <EmployeeID>2</EmployeeID>
+        <FirstName>Jane</FirstName>
+        <LastName>Smith</LastName>
+        <Position>Engineer</Position>
+        <Salary>45000</Salary>
+    </Employee>
+    <Employee>
+        <EmployeeID>3</EmployeeID>
+        <FirstName>Michael</FirstName>
+        <LastName>Johnson</LastName>
+        <Position>Worker</Position>
+        <Salary>30000</Salary>
+    </Employee>
+</Employees>

@@ -1,0 +1,17 @@
+<Equipment>
+    <Equipment>
+        <EquipmentID>1</EquipmentID>
+        <Name>Excavator</Name>
+        <Status>Operational</Status>
+    </Equipment>
+    <Equipment>
+        <EquipmentID>2</EquipmentID>
+        <Name>Crane</Name>
+        <Status>Under Maintenance</Status>
+    </Equipment>
+    <Equipment>
+        <EquipmentID>3</EquipmentID>
+        <Name>Bulldozer</Name>
+        <Status>Operational</Status>
+    </Equipment>
+</Equipment>

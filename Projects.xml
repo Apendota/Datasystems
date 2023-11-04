@@ -1,0 +1,23 @@
+<Projects>
+    <Project>
+        <ProjectID>1</ProjectID>
+        <ProjectName>Office Building Construction</ProjectName>
+        <StartDate>2023-01-01</StartDate>
+        <EndDate>2024-01-01</EndDate>
+        <Budget>5000000</Budget>
+    </Project>
+    <Project>
+        <ProjectID>2</ProjectID>
+        <ProjectName>Bridge Renovation</ProjectName>
+        <StartDate>2023-02-15</StartDate>
+        <EndDate>2023-07-31</EndDate>
+        <Budget>1000000</Budget>
+    </Project>
+    <Project>
+        <ProjectID>3</ProjectID>
+        <ProjectName>Residential Complex</ProjectName>
+        <StartDate>2023-04-01</StartDate>
+        <EndDate>2024-06-30</EndDate>
+        <Budget>8000000</Budget>
+    </Project>
+</Projects>
