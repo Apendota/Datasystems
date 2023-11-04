@@ -53,6 +53,3 @@ The repository contains CSV and XML files for each entity, containing example da
 - Equipment.csv and Equipment.xml
 - Clients.csv and Clients.xml
 - Materials.csv and Materials.xml
-
-Feel free to use this data as a reference for a construction business or modify it to suit your specific needs.
-
